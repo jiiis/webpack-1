@@ -1,1 +1,1 @@
-exports = 'pangpangCai!!!!!';
+exports.content = 'pangpangCai!!!';
