@@ -1,1 +1,5 @@
-document.write(require('./modules/content.js'));
+var contentModule = require('./modules/content.js');
+
+console.log(contentModule);
+
+document.write(contentModule);
