@@ -2,6 +2,6 @@
 //
 //document.write(contentModule);
 
-define(['./modules/content.js'], function(content) {
-    document.write(content);
+define(['./modules/content.js'], function(contentModule) {
+    document.write(contentModule.content);
 });
