@@ -1,3 +1,3 @@
 var contentModule = require('./modules/content.js');
 
-document.write(contentModule.content);
+document.write(contentModule);
