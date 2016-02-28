@@ -1,0 +1,11 @@
+# Logs #
+########
+*.log
+
+# OS generated #
+################
+.DS_Store
+
+# IDE #
+#######
+.idea
