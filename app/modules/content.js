@@ -1,1 +1,1 @@
-exports.content = 'erNiuNiu!!!';
+module.exports = 'erNiuNiu!';
