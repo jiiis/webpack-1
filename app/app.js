@@ -1,3 +1,7 @@
-var contentModule = require('./modules/content.js');
+//var contentModule = require('./modules/content.js');
+//
+//document.write(contentModule);
 
-document.write(contentModule);
+define(['./modules/content.js'], function(content) {
+    document.write(content);
+});
